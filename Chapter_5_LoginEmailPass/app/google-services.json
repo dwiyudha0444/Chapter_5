@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "359558489458",
+    "project_id": "loginemailpass-5a67c",
+    "storage_bucket": "loginemailpass-5a67c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359558489458:android:ceb38ce6e07a4a46a5a9eb",
+        "android_client_info": {
+          "package_name": "com.dwiyu.chapter_5_loginemailpass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359558489458-5o40n6prq27jboq6deijaj4p640gcs88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dwiyu.chapter_5_loginemailpass",
+            "certificate_hash": "3133e8a983f7f082bc9f4721886f066b485275da"
+          }
+        },
+        {
+          "client_id": "359558489458-csle4k0rgvhpiot64f8teasak3977pn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn69znhphMQif7Z5YfhRNWuMmfNcSH9jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359558489458-csle4k0rgvhpiot64f8teasak3977pn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
